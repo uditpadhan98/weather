@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#container{
+    background-color: #686de0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#city-name{
+    height: 80px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+#city-temp{
+    height: 80px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+#search{
+    border-radius: 25px;
+    height: 35px;
+    padding: 10px;
+    font-size: 25px;
+    border: none;
+    outline: none;
+}
