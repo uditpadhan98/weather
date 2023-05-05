@@ -79,10 +79,13 @@
         display: none;
     }
     #place-name{
-        margin-bottom: 10px;
+        margin-bottom: 40px;
         margin-top: 20px;
     }
     #coord{
         display: none;
+    }
+    #city-name{
+        margin-bottom: 60px;
     }
   }
